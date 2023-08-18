@@ -1,0 +1,9 @@
+UseCamera[]
+    Breakpoint[]
+    Detect["cell phone"]
+    CountInRegion["top half"]
+    Read[]
+    ShowText[]
+    ShowText["person"]
+    Show[]
+EndCamera

@@ -1,0 +1,4 @@
+Load["bus.jpg"]
+Grid[16]
+Shuffle[]
+Show[]

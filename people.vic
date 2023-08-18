@@ -1,0 +1,6 @@
+Load["./bus.png"]
+Classify["cat", "dog", "fish", "bus"]
+Say[]
+
+
+

@@ -1,0 +1,19 @@
+Use["groundingdino"]
+
+Make blurplates
+    Detect["license plate"]
+    Blur[]
+    Save["cars_with_blurred_plates"]
+
+In["./search/"]
+    Load[]
+    blurplates
+
+Reset[]
+
+In["./cars_with_blurred_plates/"]
+    Load[]
+
+Search["blue car"]
+
+Compare[]

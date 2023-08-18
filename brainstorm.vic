@@ -1,0 +1,21 @@
+
+Say[cats]
+
+UNIQUE_COUNT = 0
+
+In["camera"]
+    Detect["person"]
+    Count[]
+    GetUnique[]
+
+    Increment...
+
+
+
+unique_cats = 0
+
+for ...
+    ....
+    unique_cats += 1
+
+print('video contains 10 unique cats')

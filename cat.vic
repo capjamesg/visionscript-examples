@@ -1,0 +1,11 @@
+In["camera"]
+    Detect["person"]
+    Cutout[]
+
+    In[Read[]]
+        Detect["person"]
+        If[Count[] > 0]
+            ShowText["cookie"]
+        End
+    Endin
+Endin

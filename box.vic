@@ -1,0 +1,5 @@
+In["video.mov"]
+    SetRegion[100, 200, 400, 600]
+
+    If [GetText[] Contains["banana"]]
+        Say["banana found"]

@@ -1,0 +1,7 @@
+In["camera"]
+    Detect["person"]
+    Count[]
+    Read[]
+    ShowText[]
+    Greyscale[]
+    Show[]

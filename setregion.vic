@@ -1,0 +1,14 @@
+Load["james.jpeg"]
+Load["james1.jpeg"]
+Detect["person"]
+Greyscale[]
+Replace["blue"]
+
+Stack
+-----
+
+james.jpeg - [[r], [g], [b]]
+james1.jpeg
+[text] - person predictions
+james1 greyscale
+james1 greyscale blue

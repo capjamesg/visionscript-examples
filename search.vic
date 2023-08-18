@@ -1,0 +1,5 @@
+Load["comb.png"]
+Segment["comb, glass"]
+Search["glass"]
+Get[1]
+Show[]

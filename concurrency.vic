@@ -1,0 +1,7 @@
+Fast[]
+In["video.mov"]
+    Greyscale[]
+    Show[]
+Save[]
+
+idx accumulator, reconcile all data
